@@ -1,6 +1,6 @@
 ﻿# Examen_python
 # Aplicación de Terminal en Python
-<span style="color: rgba(255, 0, 0, 0.5);">Rojo semitransparente</span>  
+
 
 Esta aplicación fue desarrollada como parte de un examen práctico. Está escrita en Python y se ejecuta desde la terminal. El proyecto consiste en una aplicación de terminal que simula el proceso de generación de propina de un restaurante, permite realizar distintas funciones mediante comandos interactivos por consola.
 
