@@ -1,4 +1,4 @@
-﻿# Examen_python
+
 # Aplicación de Terminal en Python 💻
 
 
